@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ganeshpalli11/todoReact.git/static/css/main.f3bf8084.css",
+    "main.js": "/Ganeshpalli11/todoReact.git/static/js/main.16735194.js",
+    "index.html": "/Ganeshpalli11/todoReact.git/index.html",
+    "main.f3bf8084.css.map": "/Ganeshpalli11/todoReact.git/static/css/main.f3bf8084.css.map",
+    "main.16735194.js.map": "/Ganeshpalli11/todoReact.git/static/js/main.16735194.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3bf8084.css",
+    "static/js/main.16735194.js"
+  ]
+}
